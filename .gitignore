@@ -1,2 +1,4 @@
 .DS_Store
 firebird15-nbis/src/udflib_2.so
+etch/*
+!etch/.gitkeep
