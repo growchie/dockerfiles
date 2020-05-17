@@ -26,7 +26,7 @@ The image has been set for timezone Europe/Sofia. As this is most likely not you
 >**RUN** ln  -sf  /usr/share/zoneinfo/{Continent}/{City}  /etc/localtime  && \
 >dpkg-reconfigure  -f  noninteractive  tzdata
 
-in your final image.
+in your final image, or see **Build** for more info.
  
 ## Notes on fonts
 
